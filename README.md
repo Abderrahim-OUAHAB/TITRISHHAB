@@ -1,6 +1,4 @@
-[demo](img.png)
-
-
+![demo](img.png)
 
 ## LINK 
 <https://titrishhab.vercel.app/>
